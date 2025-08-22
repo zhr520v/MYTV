@@ -185,7 +185,5 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="All" tvg-name="农业致富" tvg-logo="https://epg.112114.xyz/logo/农业致富.png" epg-url="https://epg.aptv.app/xml",农业致富
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="All" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" epg-url="https://epg.aptv.app/xml",汽摩
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 group-title="All" tvg-name="哒啵赛事" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" epg-url="https://epg.aptv.app/xml",哒啵赛事
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
